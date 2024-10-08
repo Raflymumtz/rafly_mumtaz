@@ -13,6 +13,10 @@
 
 - ⚡ **I think I am nocturnal, so if you has same problem with me..its okay, we can have some discussion at night**
 
+[![Raflymumtz's GitHub | Stats](https://stats.quira.sh/Raflymumtz/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Raflymumtz)
+[![Raflymumtz's GitHub | Topics Over Time](https://stats.quira.sh/Raflymumtz/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Raflymumtz)
+[![Raflymumtz's GitHub | Languages Over Time](https://stats.quira.sh/Raflymumtz/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Raflymumtz)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raflymumtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raflymumtz" height="30" width="40" /></a>
